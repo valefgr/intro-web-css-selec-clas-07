@@ -1,0 +1,68 @@
+*{
+    font-family: Lucida Sans', Verdana, sans-serif;
+}
+
+body{
+    background-color: white;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    align-items: center;
+}
+
+/* Ejercicio 1.
+    Agregar el selector de clase `.banner` y añade las siguientes propiedades con su valor:
+        - background-image: url("bg.jpg");
+        - color: white;
+        - padding: 100px; 
+        - text-align: center;
+*/
+
+
+
+
+
+
+
+/* Ejercicio 2.
+    Agregar los siguientes selectores de clase `.html-exp, .css-exp, .js-exp` y añade la siguiente propiedad con su valor:
+        - padding: 60px;
+*/
+
+
+
+
+
+
+
+
+/* Ejercicio 3.
+    Agregar el selector de clase `.flappy-js` y añade las siguientes propiedades con su valor:
+        - background-image: url("fb-game-background.png");
+        - padding: 60px;
+        - height: 450px;
+        - display: flex;
+        - justify-content: center;
+        - align-items: center;
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Ejercicio 4.
+    Agregar el selector de clase `.html-img` y agrega la siguiente propiedad con su valor:
+        - text-align: center;
+*/
