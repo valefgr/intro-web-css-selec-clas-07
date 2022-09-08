@@ -36,11 +36,9 @@ Bifurca (fork) y clona (clone) este lab en tu entorno local. Navega a su directo
 .flappy-js {
 
    background-image: url("fb-game-background.png");
-   padding: 60px;
-   height: 450px;
-   display: flex;
-   justify-content: center;
-   align-items: center;
+   height: 580px;
+   width: 100%;
+   position: absolute;
 
 }
 
