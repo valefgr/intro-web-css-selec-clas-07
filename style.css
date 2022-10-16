@@ -14,4 +14,18 @@ h2{
     text-align: center;
 }
 
-/* Agrega tu código aquí */
+.banner{
+    background-image: url("bg.jpg");
+    color:white;
+    padding: 100px;
+    text-align: center;
+}
+.html-exp, .css-exp, .js-exp{
+    padding: 60px;
+}
+.flappy-js{
+    background-image: url("fb-game-background.png");
+    height: 580px;
+    width: 100%;
+    position: absolute;
+}
